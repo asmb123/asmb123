@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Asmit Barua</h1>
 <h3 align="center">Currently doing WebDev.</h3>
+<img align="left" width="80" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif">
+<img align="center" width="80" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif">
+<img align="right" width="80" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif">
 <img align="right" alt="gif" width="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
