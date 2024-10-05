@@ -26,8 +26,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/asmb123/asmb123/output/snake.svg" alt="Snake animation" />
-
-###
